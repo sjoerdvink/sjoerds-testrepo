@@ -6,6 +6,7 @@ Red
 Green
 Yellow
 Blue
+Indigo
 Magenta
 
 Water
